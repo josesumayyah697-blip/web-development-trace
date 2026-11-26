@@ -1,5 +1,5 @@
 # web-development-trace
-Name: Sumayyah T. Jose
+**Name:** Sumayyah T. Jose
 
 Section: 2E
 
