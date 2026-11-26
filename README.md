@@ -1,7 +1,10 @@
 # web-development-trace
 Name: Sumayyah T. Jose
+
 Section: 2E
+
 GitHub Username: Sumayyah-jose
+
 
 My Goal
 
